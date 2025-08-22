@@ -116,18 +116,3 @@ The application uses Tailwind CSS for styling with a custom configuration. The C
 - **Database**: MongoDB with connection string in `app.js`
 - **Session Secret**: Configured in the session middleware
 
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## 📞 Support
-
-For questions or support, please open an issue in the repository.
