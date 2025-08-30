@@ -64,7 +64,7 @@ app.use("/host/uploads", express.static(path.join(rootDir, 'uploads')))
 app.use("/homes/uploads", express.static(path.join(rootDir, 'uploads')))
 
 app.use(session({
-  secret: "KnowledgeGate AI with Complete Coding",
+  secret: "Preet Prasad AirBnb",
   resave: false,
   saveUninitialized: true,
   store
